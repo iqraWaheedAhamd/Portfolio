@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.custom-image{
+    background-image: url("../../public/bg.webp");
+}
+
